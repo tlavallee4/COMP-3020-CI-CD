@@ -1,7 +1,7 @@
 # Hello World
 
-README with some words.
+This is a sample README file for a GitHub Actions project.
 
 - Super-Linter is set up
-- Dev branch has been created
-- Pull request with review from myself but a different account
+- A `dev` branch has been created
+- A pull request was reviewed using a second GitHub account
